@@ -1,4 +1,4 @@
-package org.masterwill.asset.manager.springbootelasticsearchassetmanagement;
+package org.masterwill.asset.manager.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
